@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @m0x2A
 - 👀 I’m interested in open source, security, monitoring, scripting, operations, infrastructure ....
-- 🌱 I’m currently learning maybe too many different things at once
-- 📫 Reach out to me on [mastodon](https://infosec.exchange/@m0x2A) 
+- 🌱 I might be learning too many different things at the same time
+- 📫 Reach out to me on [mastodon](https://infosec.exchange/@m0x2A)
+- 📝 I write about tech on my [blog](https://m0x2a.dreamymatrix.com) 
 - ⚡ Fun fact: 42
 
 <!---
